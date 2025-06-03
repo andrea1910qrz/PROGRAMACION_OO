@@ -2,6 +2,7 @@
 #include<stdio.h>
 #include <fstream>//Esta libreria es para el manejo de archivos :)
 
+// Andrea Viridiana Avalos Quiroz 37A ISC
  int main (){
 	
 	std::ifstream archivo("valor.txt");
