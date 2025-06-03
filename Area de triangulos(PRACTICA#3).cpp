@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
 
+// Andrea Viridiana Avalos Quiroz 37A ISC
 main(){
 	int num1, num2, opcion, resultado;
 	
