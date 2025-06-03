@@ -3,7 +3,8 @@
 #include <vector>
 using namespace std;
 
-// Función que procesa una cadena de derecha a izquierda
+// Andrea Viridiana Avalos Quiroz 37A ISC
+// FunciÃ³n que procesa una cadena de derecha a izquierda
 void ciclo(string cadena) {
     int estado = 1;
     string traza = "S1";
@@ -75,7 +76,7 @@ int main() {
     int tamano;
     cout << "\ncuantos caracteres son ";
     cin >> tamano;
-    cin.ignore(); // Limpia el salto de línea
+    cin.ignore(); // Limpia el salto de lÃ­nea
 
     vector<string> cadenas(tamano);
 
